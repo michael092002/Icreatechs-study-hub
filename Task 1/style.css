@@ -1,0 +1,55 @@
+/* CSS styles for the HTML page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(136, 70, 9, 0.836);
+    margin: 20px;
+    padding: 10px;
+}
+
+h1 {
+    color: #ddc78b;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: rgb(235, 198, 168);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol, ul {
+    color: #eeae5b;
+}
+
+img {
+    border: 2px solid #333;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    padding: 8px;
+    border: 1px solid rgb(230, 132, 22);
+}
+
+strong {
+    color: #ff4500;
+}
+
+em {
+    font-style: italic;
+}
+
+i {
+    font-style: italic;
+    color: #8a2be2;
+}
+
+b {
+    font-weight: bold;
+}
+
+u {
+    text-decoration: underline;
+}
